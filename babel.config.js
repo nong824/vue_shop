@@ -9,7 +9,6 @@ module.exports = {
         libraryName: 'element-ui',
         styleLibraryName: 'theme-chalk'
       }
-    ],
-    'transform-remove-console'
+    ]
   ]
 }
